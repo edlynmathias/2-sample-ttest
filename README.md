@@ -1,1 +1,1 @@
-# 2-sample-ttes
+# 2-sample-ttest
